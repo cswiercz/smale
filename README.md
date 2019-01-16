@@ -25,10 +25,10 @@ For a local install run:
 
 ```sh
 $ cd /path/to/smale
-$ python setup.py install --local
+$ python setup.py install --user
 ```
 
-(Omit `--local` for a system-wide installation.)
+(Omit `--user` for a system-wide installation.)
 
 ## Testing
 
