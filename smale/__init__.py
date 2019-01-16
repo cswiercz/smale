@@ -1,1 +1,1 @@
-from smale import smale_newton
+from .smale import smale_newton
